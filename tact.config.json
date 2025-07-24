@@ -2,7 +2,7 @@
     "projects": [
         {
             "name": "sample",
-            "path": "./sources/swapnft.tact",
+            "path": "./sources/LobbyFactory.tact",
             "output": "./sources/output",
             "mode": "full",
             "options": {
