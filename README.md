@@ -1,3 +1,4 @@
+# giftpoly-v1
 ## How to use
 
 First, let's install all the dependencies:
@@ -39,5 +40,3 @@ If you'd like to format the Tact source code in the [sources](./sources) directo
 ```shell
 yarn fmt
 ```
-# nftswap
-# giftpoly-v1
